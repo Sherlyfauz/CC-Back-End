@@ -1,8 +1,0 @@
-PORT=8090
-DBHOST=localhost
-DBUSER=root
-DBDATABASE=db_linguity
-PROJECTID=testingapi-388911
-BUCKETNAME=testing165
-SECRETKEY=rahasia
-DBPASSWORD=linguity
